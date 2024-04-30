@@ -1,0 +1,1 @@
+# calc_of_tech_time_norms

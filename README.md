@@ -1,1 +1,1 @@
-# calc_of_tech_time_norms
+# Calculation of justification of technical time norms
